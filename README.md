@@ -1,6 +1,6 @@
 # Cybersecurity Projects
 
-Hello Recruiters,
+Hello Hiring managers and Recruiters,
 
 I am excited to present a collection of cybersecurity projects that I have worked on. These projects have provided me with valuable hands-on experience in various aspects of cybersecurity.
 
