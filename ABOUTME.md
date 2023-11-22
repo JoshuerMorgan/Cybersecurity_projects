@@ -1,4 +1,4 @@
-##About me
+# About me
 Hello, My name is Joshua Akeredolu, I am writing this to give you a brief introudction to your potentail hire, I am a first generation Nigerian imigrate with a major in computer Science  and  Associate degree in Computer Information System. My love for computers began with seeing my uncle repair copmuters and I wondered how the hardwares functioned, my jorney as not been the smoothiest as I have to sponsor my education through college, I hava a background in Object oriented programming with JAVA, C++  also in front-end Web development with HTML, CSS, JavaScript and REACT. I am making a switch to Cybersecurity to protect data Confidentiality, Intergity and  Avalaiblity. My strengths are  
 people Analysis
 Time managment
