@@ -1,5 +1,3 @@
-# Cybersecurity_projects
-
 # Cybersecurity Projects
 
 Hello Recruiters,
