@@ -1,0 +1,29 @@
+Sure, let's start with **tcpdump**:
+
+- **Software or Equipment Required**: tcpdump is a command-line utility, so it requires a terminal emulator to run. It's available on Unix-like operating systems, including Linux, macOS, and BSD¹.
+- **Open-Source or Proprietary**: tcpdump is open-source¹.
+- **User Interface**: tcpdump uses a command-line interface¹.
+- **Usage**: Security analysts typically use tcpdump for network troubleshooting, analysis, software and communications protocol development, and education¹.
+- **Capturing, Analyzing, and Filtering Network Traffic**: tcpdump can capture network traffic live or read from a saved capture file. It can filter packets that match a boolean expression².
+- **Limitations or Considerations**: tcpdump doesn't have a graphical user interface, which might make it less user-friendly for some users. Also, understanding the output might require knowledge of networking protocols¹.
+
+Now let's move on to **Wireshark**:
+
+- **Software or Equipment Required**: Wireshark is available on Windows, macOS, and many Unix platforms (Linux, UNIX, BSD). It provides a graphical user interface and also has a terminal-based version called TShark⁴.
+- **Open-Source or Proprietary**: Wireshark is open-source⁴.
+- **User Interface**: Wireshark uses a graphical user interface. It provides a detailed view of network traffic with features like color coding and filtering⁴.
+- **Usage**: Security analysts use Wireshark for network troubleshooting, analysis, software and communications protocol development. It's also used for educational purposes⁴.
+- **Capturing, Analyzing, and Filtering Network Traffic**: Wireshark can capture live network traffic or read from saved capture files. It provides detailed packet information and supports hundreds of protocols. It also allows users to apply advanced filters⁴.
+- **Limitations or Considerations**: While Wireshark provides more detailed information and a user-friendly interface compared to tcpdump, it can be resource-intensive. Also, using Wireshark effectively requires a good understanding of networking protocols⁴.
+
+Both tools are powerful in their own right and are used based on the requirements of the task at hand.
+
+Source: Conversation with Bing, 10/17/2023
+(1) Home | TCPDUMP & LIBPCAP. https://www.tcpdump.org/.
+(2) tcpdump(1) man page | TCPDUMP & LIBPCAP. https://www.tcpdump.org/manpages/tcpdump.1.html.
+(3) Wireshark · Documentation. https://www.wireshark.org/docs/.
+(4) tcpdump Cheat Sheet - Comparitech. https://cdn.comparitech.com/wp-content/uploads/2019/06/tcpdump-cheat-sheet-1.pdf.
+(5) Wireshark User’s Guide. https://www.wireshark.org/docs/wsug_html/.
+(6) Wireshark User’s Guide. https://www.wireshark.org/docs/wsug_html_chunked/.
+(7) undefined. https://github.com/the-tcpdump-group/tcpdump.
+(8) undefined. https://github.com/the-tcpdump-group/libpcap.
